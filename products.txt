@@ -1,0 +1,2 @@
+1,Acer-Laptop,40000.0,Travel-Mate 5742,4,Fragile
+2,iphone 11 Pro,150000,Gold-128 GB,3,Fragile

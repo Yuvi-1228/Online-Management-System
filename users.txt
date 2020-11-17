@@ -1,0 +1,8 @@
+1,man,man,man@man.com,9807679989,man,man,1
+2,admin,admin address,admin@admin.com,9803009897,admin,admin,2
+3,cus,cus,cus@cus.com,9876543210,cus,cus,0
+4,Yuvraj ,balkumari,yuvraj@online.com,1255699,yuvraj,yuvi,2
+5,Demon,Maitidevi,demon@online.com,157895,demon,demon,1
+6,a,a,a,a,a,a,0
+7,Roshan,Kalanki,roshan@online.com,123456789,roshan,roshan,0
+8,Ajit Gurung ,Matathirtha ,ajit@online.com,123455789,ajit,ajit,0
