@@ -1,0 +1,3 @@
+6,samsung a50s,33000,10,10,Fragile
+7,iphone 11 pro,170000,101,10,Fragile
+8,laptop dell,64500,102,9,Fragile

@@ -1,0 +1,5 @@
+1,man,man,man@man.com,9807679989,man,man,1
+2,admin,admin address,admin@admin.com,9803009897,admin,admin,2
+3,cus,cus,cus@cus.com,9876543210,cus,cus,0
+4,demon rai,udayapur,raidemon9@gmail.com,9840273422,demon,rai,0
+5,sanju rai,khotang,sanjudaka@gmail.com,2423423432,sanju,daka,2
